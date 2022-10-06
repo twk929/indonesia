@@ -57,6 +57,6 @@ for (let n of counters) {
             n.innerText = target;
         }
     };
-
+ 
     updateCount();
 }
